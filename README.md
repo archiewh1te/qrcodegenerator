@@ -7,6 +7,9 @@
 
 **License:** Free
 
+[![PyPI](https://img.shields.io/pypi/v/qrcode?color=purple&label=qrcode&logo=qrcode&logoColor=qrcode)](https://pypi.org/project/qrcode/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aiogram?color=greem&logo=python)
+
 ## Описание:
 Скрипт который генерирует большое количество ШК (ШтрихКод) в QRcode из файла txt и сохраняет в PNG формате.
 
